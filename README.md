@@ -1,1 +1,1 @@
-[Coldplay] (https://ader81.github.io/zadanie-repo/)
+[Coldplay](https://ader81.github.io/zadanie-repo/)
